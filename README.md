@@ -37,12 +37,15 @@ do
 Após a execução do script, as tabelas ficaram populadas assim:
 
  - tabelas de cursos e disciplinas:
+ 
  ![cursos_e_disciplinas](images/tables_1.png)
 
  - tabelas de alunos:
+
  ![alunos](images/tables_2.png)
 
  - tabela de relação curso_disciplina:
+
  ![cursos_disciplina](images/tables_3.png)
 
 
